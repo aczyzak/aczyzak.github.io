@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Czyzak</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+        }
+
+        h1 {
+            font-family: "Times New Roman", Times, serif;
+            color: #0047AB; /* Cobalt Blue */
+            font-size: 5rem;
+            font-weight: normal;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>A Czyzak</h1>
+</body>
+</html>
